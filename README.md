@@ -8,7 +8,7 @@ This project is a REST-ful API for a reservation system designed to manage appoi
 - Providers can submit their available times for appointments.
 - Clients can view available appointment slots.
 - Clients can reserve and confirm appointments.
-- Unconfirmed appointments are expired after 30 minutes.
+- Unconfirmed appointments are expired after 30 minutes, checked every 15 minutes.
 
 ## Technologies Used
 
